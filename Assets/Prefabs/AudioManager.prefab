@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5370501813882299368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1271680830659757709}
+  - component: {fileID: 8225166560253566352}
+  - component: {fileID: 5648737091252601050}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1271680830659757709
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5370501813882299368}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 599.65436, y: 577.5418, z: -8.110178}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8225166560253566352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5370501813882299368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2640158c113227141b2349d4015d951c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5648737091252601050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5370501813882299368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a4175430bcc30418c5a94970224e3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <sucess>k__BackingField:
+    Guid:
+      Data1: -410858347
+      Data2: 1083539329
+      Data3: -143564141
+      Data4: -1245563481
+    Path: event:/Sound Effects/sucess
+  <fail>k__BackingField:
+    Guid:
+      Data1: -1764636995
+      Data2: 1210542340
+      Data3: 629779628
+      Data4: 1104883431
+    Path: event:/Sound Effects/fail
+  <liquid_pour>k__BackingField:
+    Guid:
+      Data1: 673332663
+      Data2: 1086004293
+      Data3: 1919880335
+      Data4: 933494593
+    Path: event:/Sound Effects/liquid_pour
+  <knife_cut>k__BackingField:
+    Guid:
+      Data1: -1811747742
+      Data2: 1142537850
+      Data3: -1455250514
+      Data4: -617977553
+    Path: event:/Sound Effects/knife_cut
+  <coin_bonus>k__BackingField:
+    Guid:
+      Data1: -1348612639
+      Data2: 1264891541
+      Data3: -323248477
+      Data4: 869494520
+    Path: event:/Sound Effects/coin_bonus

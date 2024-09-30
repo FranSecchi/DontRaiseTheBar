@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b655391f-b8bc-41a2-907a-e9cc2a2dca07}">
+		<property name="assetPath">
+			<value>700234__artninja__sword_cut_off_neck_or_slash_flesh_sounds.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.7679999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{347bf944-8a5a-41d2-9176-c010ec86018d}</destination>
+		</relationship>
+	</object>
+</objects>

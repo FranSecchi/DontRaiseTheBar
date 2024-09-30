@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5c898ffa-95ce-4735-9d81-6d6ffdea1d69}">
+		<property name="assetPath">
+			<value>539476__nataliedg__natalie-godinez-knife-chop.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5637708333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{347bf944-8a5a-41d2-9176-c010ec86018d}</destination>
+		</relationship>
+	</object>
+</objects>

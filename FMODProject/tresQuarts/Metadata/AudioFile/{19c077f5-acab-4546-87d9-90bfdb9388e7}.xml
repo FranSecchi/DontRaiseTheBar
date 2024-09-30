@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{19c077f5-acab-4546-87d9-90bfdb9388e7}">
+		<property name="assetPath">
+			<value>723044__casadalenha__pouring-liquid.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.0942176870748295</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{347bf944-8a5a-41d2-9176-c010ec86018d}</destination>
+		</relationship>
+	</object>
+</objects>

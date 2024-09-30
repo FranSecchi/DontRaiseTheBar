@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{92b26006-5534-4b0a-9fcd-6f009f821c3d}">
+		<property name="assetPath">
+			<value>youtube_1ix-U-5ishw_audio.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>414.60000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{347bf944-8a5a-41d2-9176-c010ec86018d}</destination>
+		</relationship>
+	</object>
+</objects>
