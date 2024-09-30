@@ -1,3 +1,5 @@
+# Liquid Simulation using Cellular automata
+
 This project is from a GameJam organized by alumni of TecnoCampus, with some teachers as a jury. The theme proposed was "75%" (for whatever reason).
 
 It's a simple game, with simple goals and mechanics. But I managed to be very interested in the task I was assigned for it, the liquid simulating and core mechanic.
